@@ -19,7 +19,7 @@ Rules:
 
 
 ## Slack
-Have questions? Ideas? Notice something amiss here in the docs? Hit us up on Github. We encourage you to come.
+Have questions? Ideas? Notice something amiss here in the docs? Hit us up on [Github](https://github.com/MarcoBardalesRodriguez/docs-api-movies/issues). We encourage you to come.
 
 
 
