@@ -40,9 +40,13 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Information', link: 'en/information' }
 		],
 		' Resource List': [
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
-			{ text: 'Page 4', link: 'en/page-4' }
+			{ text: 'Movies', link: 'en/movies' },
+			{ text: 'Genres', link: 'en/genres' },
+			{ text: 'Genres mapping', link: 'en/genremapping' },
+			{ text: 'Persons', link: 'en/persons' },
+			{ text: 'Directors mapping', link: 'en/directormapping' },
+			{ text: 'Roles mapping', link: 'en/rolemapping' },
+			{ text: 'Rating', link: 'en/rating' }
 		],
 	},
 };
