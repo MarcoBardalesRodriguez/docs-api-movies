@@ -18,7 +18,7 @@ Rules:
 - Be nice and friendly to your fellow PokéAPI developers.
 
 
-## Slack
+## Github
 Have questions? Ideas? Notice something amiss here in the docs? Hit us up on [Github](https://github.com/MarcoBardalesRodriguez/docs-api-movies/issues). We encourage you to come.
 
 
